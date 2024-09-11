@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Archie Goss\\Desktop\\GitReposetory\\Hydac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DADDE46B-40DD-4E15-B7B5-77770E9204F7}|Hydac\\Hydac.csproj|c:\\users\\archie goss\\desktop\\gitreposetory\\hydac\\hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADDE46B-40DD-4E15-B7B5-77770E9204F7}|Hydac\\Hydac.csproj|solutionrelative:hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Archie Goss\\Desktop\\GitReposetory\\Hydac\\Hydac\\Program.cs",
+              "RelativeDocumentMoniker": "Hydac\\Program.cs",
+              "ToolTip": "C:\\Users\\Archie Goss\\Desktop\\GitReposetory\\Hydac\\Hydac\\Program.cs",
+              "RelativeToolTip": "Hydac\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:55:19.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
